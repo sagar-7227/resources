@@ -1,18 +1,21 @@
 ## RULES AND GUIDELINES FOR HACK KRMU 2.0
 
-1. Teams must be between 1 - 8 members and can only submit their project once during the submission window.
+1. Teams should build the hacks from scratch based on the theme of the hackathon.
 
-2. The participants can only leave the venue by taking prior permission for the organizers.
-3. The participants are required to carry their college identity cards along with their passport size photograph while coming for the event.-
-4. Committee members are not eligible to participate in the hackathon. They may, however, assist the teams with the scut work.
-5. Teams can ask for advice from organizers, volunteers, and others.
-6. All work on a project should be done during the hackathon. Working on a project before the event is against the rules and is not allowed.
-7. Teams should be working on a new project. Adding new features to existing projects is not allowed to be submitted as a hackathon project.
-8. Teams can work on ideas that have already been done. Hacks do not necessarily have to be “innovative”, and their work will be judged on the quality of their hack.
-9. The decision by the judges will be considered as the final decision and is not subject to argumentation.
-10. Teams can use libraries, frameworks, or open-source code in their projects while working on their hack during the event not before.
-11. The submitted project will be evaluated in two rounds.
-12. The submitted project will be evaluated in two rounds.
+2. Teams must be between 1 - 8 members and can only submit their project once during the submission window.
+3. The participants can only leave the venue by taking prior permission from the organizers.
+4. The participants are required to carry their college identity cards along with 1 passport size photograph while coming for the event.
+5. Committee members are not eligible to participate in the hackathon. They may, however, assist the teams with the scut work.
+6. Teams can ask for advice from organizers, volunteers, and others.
+7. All work on a project should be done during the hackathon. Working on a project before the event is against the rules and is not allowed.
+8. Teams should be working on a new project. Adding new features to existing projects is not allowed to be submitted as a hackathon project.
+9. Teams can work on ideas that have already been done. Hacks do not necessarily have to be “innovative”, and their work will be judged on the quality of their hack.
+10. The decision by the judges will be considered as the final decision and is not subject to argumentation.
+11. Teams can use libraries, frameworks, or open-source code in their projects while working on their hack during the event not before.
+12. The submitted project will be evaluated in two phases: 
+    - Phase 1 - Initial Screening 
+    - Phase 2 - Live Demo
+
 13. Submission of the project will be done through Google forms.
 14. The participants need to submit their project during the submission window provided. Any project submission after the given window won’t be entertained or be considered for final evaluation.
 15. Attendees from all backgrounds, genders, and geographies are welcome. The competition is open to all students affiliated with any accredited college or university at the date on which they enter the competition.
